@@ -42,6 +42,8 @@
 | MacOS | 👎 If you just browse the web and send mails | Technically since IIGS |
 | Windows Phone | 🟡 The what? | v6.5, v8.1, v10 (daily-drived it once) |
 | Windows | ❌ 11 sucks | Using since Vista, later also tried every known version |
+| LiOS |💯 BEST | i made it :3 |
+| LiOS Mobile |💯 BEST | I made it :3 |
 <!--
 ## Aesthetics
 | Aesthetic                    | Opinion      | Design experience   |
